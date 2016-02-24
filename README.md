@@ -26,6 +26,7 @@ If you do not receive any ImportError exceptions, then you have all the required
 
 ## Usage
 You need to initialize the class with your VRM username and password:
+
 juice = VictronJuice("johnsmith@example.com","Sup3rSecr3t!")
 
 The class will handle authentication with the JUICE API after this step
